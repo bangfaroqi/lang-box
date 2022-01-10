@@ -22,7 +22,7 @@ This project gets your recent commits from your activities fetched from GitHub A
 
      > Enable `repo` scope seems **DANGEROUS**, but secrets are not passed to workflows that are triggered by a pull request from a fork (https://docs.github.com/en/actions/reference/encrypted-secrets)
 
-### Project setup
+### Project setup.
 
 1. Fork this repo, or [create a repository from template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) by clicking [here](https://github.com/inokawa/lang-box/generate) or the **Use this template** button on this project.
    - If you added `repo` scope above, it's recommended to create private repository.
