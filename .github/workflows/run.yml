@@ -2,7 +2,7 @@ name: update gist
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 0 1,15 * 3"
   workflow_dispatch:
 
 jobs:
