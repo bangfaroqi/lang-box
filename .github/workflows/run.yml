@@ -32,4 +32,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 72afff10e91b5d47a4fc8fa78e662775
-          USERNAME: ${{ github.actor }}
+          USERNAME: bangukis
